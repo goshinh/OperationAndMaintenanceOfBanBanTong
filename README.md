@@ -8,7 +8,7 @@
   <tr>
     <th rowspan="2">C楼</th>
     <td>第3层</td>
-    <td><a href="./C301/C301-1.jpg">301</a></td>
+    <td><a href="./C301/readme.md">301</a></td>
     <td>303</td>
     <td>307</td>
     <td>317</td>
