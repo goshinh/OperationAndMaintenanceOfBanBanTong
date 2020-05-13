@@ -8,69 +8,69 @@
   <tr>
     <th rowspan="2">C楼</th>
     <td>第3层</td>
-    <td><a href="./C323/readme.md">323</a></td>
-    <td><a href="./C321/readme.md">321</a></td>
-    <td><a href="./C319/readme.md">319</a></td>
-    <td><a href="./C317/readme.md">317</a></td>
-    <td><a href="./C307/readme.md">307</a></td>
-    <td><a href="./C303/readme.md">303</a></td>
-    <td><a href="./C301/readme.md">301</a></td>
+    <td><a href="./C323/readme.md">C323 35班</a></td>
+    <td><a href="./C321/readme.md">C321 36班</a></td>
+    <td><a href="./C319/readme.md">C319 37班</a></td>
+    <td><a href="./C317/readme.md">C317 38班</a></td>
+    <td><a href="./C307/readme.md">C307 34班</a></td>
+    <td><a href="./C303/readme.md">C303 32班</a></td>
+    <td><a href="./C301/readme.md">C301 31班</a></td>
 
   </tr>
   <tr>
     <td>第2层</td>
-    <td><a href="./C223/readme.md">223</a></td>
-    <td><a href="./C221/readme.md">221</a></td>
-    <td><a href="./C219/readme.md">219</a></td>
-    <td><a href="./C217/readme.md">217</a></td>
-    <td><a href="./C207/readme.md">207</a></td>
-    <td><a href="./C205/readme.md">205</a></td>
-    <td><a href="./C203/readme.md">203</a></td>
-    <td><a href="./C201/readme.md">201</a></td>
+    <td><a href="./C223/readme.md">C223 15班</a></td>
+    <td><a href="./C221/readme.md">C221 16班</a></td>
+    <td><a href="./C219/readme.md">C219 17班</a></td>
+    <td><a href="./C217/readme.md">C217 18班</a></td>
+    <td><a href="./C207/readme.md">C207 14班</a></td>
+    <td><a href="./C205/readme.md">C205 13班</a></td>
+    <td><a href="./C203/readme.md">C203 12班</a></td>
+    <td><a href="./C201/readme.md">C201 11班</a></td>
 
   </tr>
   <tr>
     <th rowspan="2">D楼</th>
     <td>第3层</td>
-    <td><a href="./D326/readme.md">326</a></td>
-    <td><a href="./D324/readme.md">324</a></td>
-    <td><a href="./D322/readme.md">322</a></td>
-    <td><a href="./D320/readme.md">320</a></td>
-    <td><a href="./D303/readme.md">303</a></td>
-    <td><a href="./D301/readme.md">301</a></td>
+    <td><a href="./D326/readme.md">D326 41班</a></td>
+    <td><a href="./D324/readme.md">D324 42班</a></td>
+    <td><a href="./D322/readme.md">D322 43班</a></td>
+    <td><a href="./D320/readme.md">D320 44班</a></td>
+    <td><a href="./D303/readme.md">D303 310班</a></td>
+    <td><a href="./D301/readme.md">D301 39班</a></td>
 
   </tr>
   <tr>
     <td>第2层</td>
-    <td><a href="./D227/readme.md">227</a></td>
-    <td><a href="./D225/readme.md">225</a></td>
-    <td><a href="./D223/readme.md">223</a></td>
-    <td><a href="./D205/readme.md">205</a></td>
-    <td><a href="./D203/readme.md">203</a></td>
-    <td><a href="./D201/readme.md">201</a></td>
+    <td><a href="./D227/readme.md">D227 23班</a></td>
+    <td><a href="./D225/readme.md">D225 24班</a></td>
+    <td><a href="./D223/readme.md">D223 25班</a></td>
+    <td><a href="./D205/readme.md">D205 22班</a></td>
+    <td><a href="./D203/readme.md">D203 21班</a></td>
+    <td><a href="./D201/readme.md">D201 19班</a></td>
 
   </tr>
   <tr>
     <th rowspan="2">E楼</th>
     <td>第3层</td>
-    <td><a href="./E327/readme.md">327</a></td>
-    <td><a href="./E325/readme.md">325</a></td>
-    <td><a href="./E308/readme.md">308</a></td>
-    <td><a href="./E306/readme.md">306</a></td>
-    <td><a href="./E305/readme.md">305</a></td>
-    <td><a href="./E304/readme.md">304</a></td>
-    <td><a href="./E302/readme.md">302</a></td>
+    <td><a href="./E327/readme.md">E327 61班</a></td>
+    <td><a href="./E325/readme.md">E325 62班</a></td>
+    <td><a href="./E308/readme.md">E308 48班</a></td>
+    <td><a href="./E306/readme.md">E306 47班</a></td>
+    <td><a href="./E305/readme.md">E305 33班</a></td>
+    <td><a href="./E304/readme.md">E304 46班</a></td>
+    <td><a href="./E302/readme.md">E302 45班</a></td>
 
   </tr>
   <tr>
     <td>第2层</td>
-    <td><a href="./E228/readme.md">228</a></td>
-    <td><a href="./E226/readme.md">226</a></td>
-    <td><a href="./E224/readme.md">224</a></td>
-    <td><a href="./E208/readme.md">208</a></td>
-    <td><a href="./E206/readme.md">206</a></td>
-    <td><a href="./E204/readme.md">204</a></td>
-    <td><a href="./E202/readme.md">202</a></td>
+    <td><a href="./E228/readme.md">E228 51班</a></td>
+    <td><a href="./E226/readme.md">E226 52班</a></td>
+    <td><a href="./E224/readme.md">E224 53班</a></td>
+    <td><a href="./E208/readme.md">E208 210班</a></td>
+    <td><a href="./E206/readme.md">E206 29班</a></td>
+    <td><a href="./E204/readme.md">E204 28班</a></td>
+    <td><a href="./E202/readme.md">E202 27班</a></td>
 
   </tr>
 </table>
